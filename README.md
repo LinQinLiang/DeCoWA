@@ -16,4 +16,7 @@ To avoid severe distortion of global semantics led by random deformation, DeCoW 
 Extensive experiments demonstrate that the transferable examples crafted by our DeCoWA on CNN surrogates can significantly hinder the performance of Transformers (and vice versa) on various tasks, including image classification, video action recognition, and audio recognition.
 >
 > **TransferAttack**
+>
+> We submitted the code to the [[TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttack), you can find it in file "transferattack/input_transformation/decowa.py"
+> Our method performs well in cross-model genus attack and defense methods. :blush::blush:
 > 
